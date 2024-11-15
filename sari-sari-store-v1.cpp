@@ -84,7 +84,6 @@ int main()
         else {
             cout << "Payment Complete\n";
         }
-
     }
 
     cout << "You can take the item now\n\n\n";
