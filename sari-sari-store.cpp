@@ -26,6 +26,7 @@
 
 // Demo Project
 // Sari-Sari Store, User can select from all products they want to buy then total and pay it/kick out of the store
+// Topics Covered are Input, Output and Conditionals
 
 #include <iostream>
 using namespace std;
@@ -50,7 +51,7 @@ int main()
 
     switch(choice) {
     case 1:
-        total = 3;
+        total = 10;
         cout << "Pay $" << total << '\n';
         break;
     case 2:
@@ -86,7 +87,7 @@ int main()
 
     }
 
-    cout << "You can take the item now";
+    cout << "You can take the item now\n\n\n";
 
     system("pause");
     return 0;
