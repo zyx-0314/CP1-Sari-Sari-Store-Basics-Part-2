@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ramir/OneDrive/Code/C++/CP1-Sari-Sari-Store-Basics-Part-2",
-      "program": "c:/Users/ramir/OneDrive/Code/C++/CP1-Sari-Sari-Store-Basics-Part-2/build/Debug/outDebug",
+      "cwd": "c:/Users/ramir/OneDrive/Code/C++/CP1-Sari-Sari-Store-Basics-Part-2/v2",
+      "program": "c:/Users/ramir/OneDrive/Code/C++/CP1-Sari-Sari-Store-Basics-Part-2/v2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
