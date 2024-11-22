@@ -16,6 +16,10 @@
 
 <br/>
 
+[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/5819830e-09da-4acc-91b5-4523c97be42a.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/5819830e-09da-4acc-91b5-4523c97be42a)
+
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/CP1-Sari-Sari-Store-Basics-Part-2)
+
 ---
 
 <details>
